@@ -1,0 +1,1 @@
+# yandexgpt-api-1c
