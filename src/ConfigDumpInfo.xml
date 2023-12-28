@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="CommonCommand.ygpt_ГенерацияТекста" id="c562aa71-b8ac-42fe-b70d-c07239419a51" configVersion="0795819ed36c4c46bd6e95e95873769d0994ad53"/>
+		<Metadata name="CommonCommand.ygpt_ГенерацияТекста.CommandModule" id="c562aa71-b8ac-42fe-b70d-c07239419a51.2" configVersion="c490db738182bb26d0498facdea48cca72dec674"/>
+		<Metadata name="CommonForm.ygpt_ФормаТестирования" id="e5416a6d-1733-4bc9-80d7-d9027d4b7110" configVersion="39ddfbb3e64b0a236145321a7f4ebdd114969eb8"/>
+		<Metadata name="CommonForm.ygpt_ФормаТестирования.Form" id="e5416a6d-1733-4bc9-80d7-d9027d4b7110.0" configVersion="90b20efbf280af1b44d06f99d87a4c3f67d48d53"/>
+		<Metadata name="CommonForm.Настройки" id="c214aa5e-4687-4aab-82d3-4cb5eb61790c" configVersion="5cc590a67430f8b87a9d944b71e87310858efdac"/>
+		<Metadata name="CommonForm.Настройки.Form" id="c214aa5e-4687-4aab-82d3-4cb5eb61790c.0" configVersion="6aa6450bfc17a62c9c51bab4c26c37a33da70d08"/>
+		<Metadata name="CommonModule.ygpt_Запросы" id="46b08cd1-1d10-4a90-9e77-ee2e5214e20a" configVersion="28e15ae3eed7615d83fc026ac04e3904c35e3ab2"/>
+		<Metadata name="CommonModule.ygpt_Запросы.Module" id="46b08cd1-1d10-4a90-9e77-ee2e5214e20a.0" configVersion="97095899596394478803f1c3536f03a87c89afb5"/>
+		<Metadata name="CommonModule.ygpt_Интеграция" id="4201835b-f300-46c8-a538-98281cdc48c9" configVersion="abad53b13b275b765e266c2662680f33ac1919a0"/>
+		<Metadata name="CommonModule.ygpt_Интеграция.Module" id="4201835b-f300-46c8-a538-98281cdc48c9.0" configVersion="670dd57ed2414647ab4cff360425a319a757cd10"/>
+		<Metadata name="CommonModule.ygpt_ИнтеграцияПовтИсп" id="3f987e3b-6e13-48d3-8b0f-ed7309769c9f" configVersion="2194d1c3856a7d4460b0450a8f1136664a439d4b"/>
+		<Metadata name="CommonModule.ygpt_ИнтеграцияПовтИсп.Module" id="3f987e3b-6e13-48d3-8b0f-ed7309769c9f.0" configVersion="4e00973797bc0d2b0644c7a56df17da8b4b64294"/>
+		<Metadata name="CommonModule.ygpt_Логирование" id="69824977-f6e3-41ee-b9c6-3889ee3ffbcc" configVersion="faa1f61fc3c5379f7178ad1313d027872456b0c9"/>
+		<Metadata name="CommonModule.ygpt_Логирование.Module" id="69824977-f6e3-41ee-b9c6-3889ee3ffbcc.0" configVersion="e4872e06c76c37f63a8b9eb6d5030ff6272b774d"/>
+		<Metadata name="CommonModule.ygpt_ОбщегоНазначения" id="712ee033-8922-429e-81ae-242eaaafd66c" configVersion="b3d462f6c9037dfd2748b9261540a2bc2a6220ad"/>
+		<Metadata name="CommonModule.ygpt_ОбщегоНазначения.Module" id="712ee033-8922-429e-81ae-242eaaafd66c.0" configVersion="ed47752cec87dea6b5c175135468ef21cc5bccdf"/>
+		<Metadata name="CommonModule.КоннекторHTTP" id="a5714c91-1739-4c54-97b7-e013a5ad34b3" configVersion="663bb8140b142459b07d03394131a12eb48843e2"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="a5714c91-1739-4c54-97b7-e013a5ad34b3.0" configVersion="2105ccf42970d0ee474817d9609ce73c3c466dbd"/>
+		<Metadata name="Configuration.YandexGPT" id="630c29b6-ba1a-438c-b166-6e60379f5b74" configVersion="1bc5f7e2455dad0ec89b46296eef1e92c2a2e577"/>
+		<Metadata name="Language.Русский" id="bd9e5907-95b4-4332-b3e4-ebda72ec301f" configVersion="33563e8feb294b2aa9b53009249624b318f5cd4d"/>
+		<Metadata name="Role.ygpt_ОсновнаяРоль" id="41e2ffe8-2d55-4ef9-b639-92ed7b037696" configVersion="51b2c022926e5b2d08cd20cf14564e11394179d1"/>
+		<Metadata name="Subsystem.YandexGPT" id="8fdcc1a4-b646-4c99-a99c-b8c3d4e9e9b2" configVersion="ac4e2eedd632719a33b80cff0aea82690c065b3f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
